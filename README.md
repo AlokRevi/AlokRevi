@@ -1,6 +1,6 @@
 # Hi, I'm Alok Revi 👋
 
-I'm a Junior GIS Analyst and Backend Developer who builds practical, human-centred applications for real-life operations.
+I'm a GIS Analyst and Backend Developer who builds practical, human-centred applications for real-life operations.
 
 My focus is on creating tools that help individuals, families, and communities manage complex responsibilities more clearly 
 — especially around recurring tasks, life admin, spatial data, sustainability, and decision-making.
