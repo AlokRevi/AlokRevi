@@ -7,21 +7,23 @@ My focus is on creating tools that help individuals, families, and communities m
 
 ## What I work on 🔭 🌱
 
-- Human-centred productivity tools
 - Backend applications with Java and Spring Boot
-- REST APIs and full-stack web apps
-- SQL databases and data modelling
+- REST APIs and API design
+- Full-stack web applications
+- SQL databases and structured data
 - GIS and spatial analysis projects
-- Community-focused and sustainability-related tools
+- Human-centred productivity tools
+- Community-focused and sustainability-related applications
 
 ## Tools I use ⚡
 
 **Languages:** Java, SQL, Python, JavaScript, TypeScript  
-**Backend:** Spring Boot, REST APIs, Maven  
+**Backend:** Spring Boot, REST APIs, Maven, Microservices  
 **Frontend:** Angular, HTML, CSS  
 **Databases:** PostgreSQL, MySQL, SQLite  
 **GIS:** ArcGIS Pro, ArcGIS Online, QGIS  
-**Other:** Git, GitHub, Docker, Linux, Postman  
+**Tools:** Git, GitHub, Docker, Linux, Postman  
+**Familiar with:** Kafka, Kubernetes, cloud deployment workflows  
 
 ## Current focus
 
