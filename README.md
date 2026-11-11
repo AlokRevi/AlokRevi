@@ -26,6 +26,7 @@ My aim is to build tools that help individuals, families, and communities manage
 **GIS:** ArcGIS Pro, ArcGIS Online, QGIS  
 **Tools:** Git, GitHub, Docker, Linux, Postman  
 **Spatial automation:** Python, ArcPy, pandas
+
 **Web mapping:** MapLibre GL JS
 **CI/CD** Kafka, Kubernetes, cloud deployment workflows
 
