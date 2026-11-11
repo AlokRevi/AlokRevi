@@ -25,10 +25,10 @@ My aim is to build tools that help individuals, families, and communities manage
 **Databases:** PostgreSQL, MySQL, SQLite  
 **GIS:** ArcGIS Pro, ArcGIS Online, QGIS  
 **Tools:** Git, GitHub, Docker, Linux, Postman  
-**Spatial automation:** Python, ArcPy, pandas
+**Spatial automation:** Python, ArcPy, pandas;
 
-**Web mapping:** MapLibre GL JS
-**CI/CD** Kafka, Kubernetes, cloud deployment workflows
+**Web mapping:** MapLibre GL JS;
+**CI/CD** Kafka, Kubernetes, cloud deployment workflows;
 
 ## Current focus
 
